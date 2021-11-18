@@ -1,0 +1,45 @@
+.content {
+  height: 8rem;
+  margin-bottom: 3rem;
+
+
+
+  a {
+    font-size: 1.75rem;
+    line-height: 2rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+  }
+
+  p {
+    font-size: 1rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+
+    color: #D7D7D7;
+
+  }
+
+}
+
+.info {
+  width: 244px;
+  height: 20px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  color: #BBBBBB;
+  font-size: 0.8  rem;
+  line-height: 1rem;
+
+  div {
+    display: flex;
+
+    p {
+      margin-left: 0.6rem;
+    }
+  }
+}
